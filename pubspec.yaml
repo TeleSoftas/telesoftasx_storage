@@ -35,7 +35,7 @@ flutter:
       ios:
         pluginClass: TelesoftasxStoragePlugin
       web:
-        fileName: telesoftasx_storage_web.dart
+        fileName: telesoftasx_web_storage_plugin.dart
         pluginClass: TelesoftasxWebStoragePlugin
 
   # To add assets to your plugin package, add an assets section, like this:
